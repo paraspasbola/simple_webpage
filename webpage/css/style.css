@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:aliceblue ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+
+.nav{
+    background-color: blanchedalmond;
+    height: 80px;
+}
+
+.logo{
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px; 
+}
+
+.about{
+    float: right;
+}
+.about ul li{
+    display: inline-block;
+    margin: 20px;
+   
+}
+.about ul li a{
+    text-decoration: none;
+}
+/* .btn{
+    background-color: aquamarine;
+} */
+.main{
+    height:420px;
+    width: 100%;
+    background-image: url("../html/images/img3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    text-align: center;
+    padding-top: 50px; 
+    
+}
+
+.welcome h1{
+    font-size: 50px;
+    color: black;
+}
+.welcome h3{
+     padding-top: 20px; 
+     color:black;
+
+}
+.btn{
+    margin-top: 30px;
+}
+.about{
+    height: 390px;
+    
+}
+
+.main2{
+    height:350px;
+    width: 100%;
+    background-image: url("../html/images/img4.png");
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: 100% 100%;
+    text-align: center;
+    padding-top: 50px; 
+    
+}
+.service{
+    height: 350px;
+    text-align: center;
+}
+.treaking{
+    float: left;
+     width: 30%;
+    height: 150px; 
+}
+.camping{
+    float: left;
+     width: 30%;
+    height: 150px; 
+    padding-left:56px ;
+}
+.rafting{
+    width: 30%;
+    float: right;
+
+}
+.h_w{
+    height: 200px;
+    width: 200px;
+}
+.cpy #pid{
+    text-align: left;
+    font-family: sans-serif;
+
+}
