@@ -1,2 +1,2 @@
 # simple_webpage
-simplle webpage
+simple webpage
